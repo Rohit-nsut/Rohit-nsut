@@ -39,5 +39,6 @@ int main() {
     node *root=NULL;
     root=buildtree(root);
 
+    // cout<<"roht"<<endl;
 
 }
